@@ -41,6 +41,7 @@
 }
 .section__wrapper {
   display: flex;
+  margin-top: 25px;
 }
 .section__list {
   margin: 0;
